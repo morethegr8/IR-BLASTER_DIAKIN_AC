@@ -3,7 +3,7 @@ Arduino Based IR-Blaster to TURN ON/OFF DIAKIN_AC- Using Keycard Detection to sw
 
 ## Contribute
 
-There are several ways to contribute to IR BLASTER development. You can contribute to the repository by doing:
+There are several ways to contribute to my development. You can contribute to the repository by doing:
 
 * Pull requests (fixes, enhancements, new features... are very welcome)
 * Documentation (I reckon I'm bad at it)
